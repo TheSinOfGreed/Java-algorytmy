@@ -1,0 +1,6 @@
+1;Kamil;Andronik;28;6;1999;1;5;2;3;true;dom;120000;1;3;2020
+2;jan;Kowalski;5;8;2000;1;1;1;1;true;zaklad;2000;6;3;2005
+3;Anna;Nowak;5;7;2001;2;3;3;3;false;dom;200000;2;5;2010
+4;Piotr;Wiśniewski;2;5;2001;2;1;1;2;true;-;0;0;0;0
+8;Daniel;Jackowski;2;3;2001;2;1;1;1;true;fabryka;2000;2;5;2005
+6;aniela;jakas;4;2;2005;1;1;1;2;false;-;2;2;2;2
