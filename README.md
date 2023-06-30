@@ -1,7 +1,3 @@
-Java
-============================
-Moje algorytmy w języku Java zrobione przez okres nauki na UwB.
-
 Zadania ogólne
 ------------
 Ogólne zadania z javy w tym: przedziały czasowe, algorytm Djikstry, działania na liczbach dziesiętnych, działania na macierzach, sito Eratostenesa, kalkulator notacji polskiej itd.
