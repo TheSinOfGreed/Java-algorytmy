@@ -1,22 +1,50 @@
 Zadania ogólne
 ------------
-Ogólne zadania z javy w tym: przedziały czasowe, algorytm Djikstry, działania na liczbach dziesiętnych, działania na macierzach, sito Eratostenesa, kalkulator notacji polskiej itd.
+Ogólne zadania z javy w tym: 
+- Przedziały czasowe,
+- Algorytm Djikstry,
+- Działania na liczbach dziesiętnych,
+- Działania na macierzach,
+- Sito Eratostenesa,
+- Kalkulator notacji polskiej itd.
 
 Metody obliczeniowe
 ------------
-Gauss, błędy działań, interpolacje, całkowanie, aproksymacje, równania nieliniowe, układy równań liniowych itd.
+- Gauss,
+- Błędy działań,
+- Interpolacje,
+- Całkowanie,
+- Aproksymacje,
+- Równania nieliniowe,
+- Układy równań liniowych itd.
 
 Metody optymalizacji
 ------------
-Metoda dwudzielna, Fibonacciego, rozwiazywanie równań nieliniowych, metoda złoty podział, metoda newton ns gauss-seidler, metoda Hook-Javes, simplex itd.
+- Metoda dwudzielna,
+- Fibonacciego,
+- Rozwiazywanie równań nieliniowych,
+- Metoda złoty podział,
+- Metoda newton ns gauss-seidler,
+- Metoda Hook-Javes,
+- Simplex itd.
 
 Wzorce projektowe
 ------------
-Adapter, bridge, decorator, observer, state, store, templste_method itd.
+- Adapter,
+- Bridge,
+- Decorator,
+- Observer,
+- State,
+- Store,
+- Templste_method itd.
 
 Algorytmy genetyczne
 ------------
-Kodowanie, selekcja, mutacja i inwersja, krzyżowanie i sukcesja
+- Kodowanie,
+- Selekcja,
+- Mutacja i inwersja,
+- Krzyżowanie
+- Sukcesja
 
 Algorytmy przekształcające obrazy
 ------------
